@@ -2,7 +2,12 @@
 [![docs](https://readthedocs.org/projects/spear-decile/badge)](https://spear-decile.readthedocs.io/en/master)
 [![license](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![website](https://img.shields.io/badge/website-online-green)](https://decile.org/)
-
+<p align="center">
+    <br>
+        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+        <img src="https://github.com/decile-team/spear/blob/master/SPEAR%20Logo.png" width="500" />
+    </br>
+</p>
 # SPEAR by DECILE
 
 ## Semi-Supervised Data Programming for Data Efficient Machine Learning
